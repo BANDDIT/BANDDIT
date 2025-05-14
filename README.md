@@ -9,11 +9,11 @@
 
 ## 🚀 What I'm Working On
 - Exploring advanced iOS features and improving app performance
-- Continuously learning to craft better, user-centric mobile experiences
+- Continuously learning to create better app experiences
 
 ## 🧠 Tech Stack
 - **Languages**: Swift, Objective-C
-- **Frameworks**: SwiftUI, UIKit, HealthKit, WidgetKit, Combine
+- **Frameworks**: SwiftUI, UIKit, HealthKit, WidgetKit, Core Data, etc
 - **Tools**: Xcode, Git
 
 ## ✍️ Writing
