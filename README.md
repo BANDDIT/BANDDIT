@@ -1,26 +1,23 @@
 # 👋 Hi, I'm Arrick
 
-## 🎯 About Me
-I'm a fresh graduate in Computer Science and a tech enthusiast passionate about building well-crafted, reliable digital products. With strong interests in both software development and quality assurance, I am detail-oriented, highly motivated, and always eager to learn and grow in the ever-evolving tech landscape.
+## 💼 About Me
+- 🎯 I'm an enthusiastic iOS Developer passionate about building impactful apps that blend functionality with engaging design.
+- 🎓 Alumni of Apple Developer Academy
 
-## 🧠 Technical Skills
+## 🚀 What I'm Working On
+- Exploring advanced iOS features and improving app performance
+- Continuously learning to create better app experiences
+- Continuously learning new knowledge and skills
 
-### 🚀 Software Development
-- **Languages**: Python, Java, Swift, Objective-C
-- **iOS Frameworks**: SwiftUI, UIKit, HealthKit, WidgetKit, CoreData
+## 🧠 Tech Stack
+- **Languages**: Swift, Python, Java
+- **Frameworks**: SwiftUI, UIKit, HealthKit, WidgetKit, Core Data, etc
 - **Tools**: Xcode, Git, VS Code
 
-### 🧪 Quality Assurance
-- **Manual Testing**: Test planning, execution, and bug reporting
-- **Automation Testing**: Selenium (Python)
-- **Test Management**: Testmo
-- **API Testing**: Postman API
-- **Workflow Tools**: JIRA, GitHub Projects
+## ✍️ Writing
+I also share my thoughts and experiences on [Medium](https://medium.com/@arrickrussell).
 
-## ✍️ Writing & Sharing
-I also enjoy sharing insights from my work and learning journey.
-
+## 📫 Let’s connect!
+Feel free to reach out or collaborate on exciting iOS projects:  
+🔗 [LinkedIn – Arrick Russell Adinoto](https://www.linkedin.com/in/arrick-russell-adinoto/)  
 📝 [Medium – @arrickrussell](https://medium.com/@arrickrussell)
-
-## 📫 Let’s Connect!
-🔗 [LinkedIn – Arrick Russell Adinoto](https://www.linkedin.com/in/arrick-russell-adinoto/)
