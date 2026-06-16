@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Arrick
 
 ## 💼 About Me
-- 🎯 I'm an enthusiastic iOS Developer passionate about building impactful apps that blend functionality with engaging design.
+- 🎯 Mobile Developer passionate about building apps that make a positive impact
 - 🎓 Alumni of Apple Developer Academy
 
 ## 🚀 What I'm Working On
-- Exploring advanced iOS features and improving app performance
-- Continuously learning to create better app experiences
-- Continuously learning new knowledge and skills
-
+- Working as an iOS Developer in my daily job
+- Building a Flutter app to help my grandmother
+- Continuously learning and improving my skills
+  
 ## 🧠 Tech Stack
-- **Languages**: Swift, Python, Java
-- **Frameworks**: SwiftUI, UIKit, HealthKit, WidgetKit, Core Data, etc
-- **Tools**: Xcode, Git, VS Code
+- **Languages**: Swift, Dart, Python, Java
+- **Frameworks**: SwiftUI, UIKit, Flutter
+- **Tools**: Xcode, VS Code, Android Studio, Git
 
 ## ✍️ Writing
 I also share my thoughts and experiences on [Medium](https://medium.com/@arrickrussell).
